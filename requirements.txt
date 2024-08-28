@@ -1,2 +1,5 @@
 setuptools==72.1.0
 wheel==0.43.0
+streamlit==1.37.1
+numpy==1.26.4
+plotly==5.22.0
